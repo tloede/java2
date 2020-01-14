@@ -1,7 +1,7 @@
 // COURSE: CSCI1620
-// TERM: Fall 2018
+// TERM: Spring 2020
 //
-// NAME: Eric Douglas
+// NAME: Tyler Loede
 // RESOURCES: None
 
 import java.util.Random;
@@ -12,7 +12,7 @@ import java.util.Random;
  * generated. Only the first and last will be shown to the player. The player must then guess if the sum
  * of all of the numbers is greater than the possible average or not.
  *
- * @author esdouglas
+ * @author tloede
  */
 
 public class RandGuessGame
