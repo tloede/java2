@@ -1,7 +1,7 @@
 // COURSE: CSCI1620
-// TERM: Fall 2018
+// TERM: Spring 2020
 //
-// NAME: Eric Douglas
+// NAME: Tyler Loede
 // RESOURCES: None
 
 import java.util.Random;
